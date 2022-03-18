@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vamos aprender como usar o github
+=======
+Consegui fazer 
+>>>>>>> bc55a30ebca6dd6c5787eb98de78898d1aeece58
